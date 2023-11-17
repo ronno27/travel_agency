@@ -21,3 +21,4 @@
   - задавать стоимость для туров
   - удалять туры 
 
+![Image](https://github.com/ronno27/travel_agency/blob/96997542d558e879680c92ceef89bc84d00df15b/model%20.png)
